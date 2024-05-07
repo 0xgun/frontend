@@ -1,0 +1,139 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "price": 999,
+            "productCategory": "Smartphone",
+            "description": "The iPhone 12 Pro features a new design and edge-to-edge Super Retina XDR display.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPhone+12+Pro"
+        },
+        {
+            "id": 2,
+            "name": "iPad Pro 12.9-inch (5th generation)",
+            "price": 1099,
+            "productCategory": "Tablet",
+            "description": "The iPad Pro features the powerful M1 chip and a stunning XDR display.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPad+Pro+12.9-inch+(5th+generation)"
+        },
+        {
+            "id": 3,
+            "name": "MacBook Pro 14-inch",
+            "price": 1999,
+            "productCategory": "Laptop",
+            "description": "The MacBook Pro 14-inch (2023) offers a Liquid Retina XDR display, powered by the M2 Pro chip, delivering breakthrough performance and amazing battery life.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=MacBook+Pro+14-inch"
+        },
+        {
+            "id": 4,
+            "name": "iPhone 14 Pro Max",
+            "price": 1099,
+            "productCategory": "Smartphone",
+            "description": "The iPhone 14 Pro Max offers the best performance and largest display in the iPhone 14 series.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPhone+14+Pro+Max"
+        },
+        {
+            "id": 5,
+            "name": "iPhone 14",
+            "price": 799,
+            "productCategory": "Smartphone",
+            "description": "The iPhone 14 introduces an advanced dual-camera system and A15 Bionic chip.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPhone+14"
+        },
+        {
+            "id": 6,
+            "name": "Samsung Galaxy S22 Ultra",
+            "price": 1199,
+            "productCategory": "Smartphone",
+            "description": "The Samsung Galaxy S22 Ultra offers a premium experience with its advanced camera and display.",
+            "brand": "Samsung",
+            "imageUrl": "https://placehold.co/800x600?text=Samsung+Galaxy+S22+Ultra"
+        },
+        {
+            "id": 7,
+            "name": "Samsung Galaxy Z Flip4",
+            "price": 999,
+            "productCategory": "Smartphone",
+            "description": "The Galaxy Z Flip4 combines style and innovation with its unique foldable design.",
+            "brand": "Samsung",
+            "imageUrl": "https://placehold.co/800x600?text=Samsung+Galaxy+Z+Flip4"
+        },
+        {
+            "id": 8,
+            "name": "Samsung Galaxy A53",
+            "price": 449,
+            "productCategory": "Smartphone",
+            "description": "The Galaxy A53 offers a balance of performance and affordability, with a versatile camera.",
+            "brand": "Samsung",
+            "imageUrl": "https://placehold.co/800x600?text=Samsung+Galaxy+A53"
+        },
+        {
+            "id": 9,
+            "name": "Samsung Galaxy S21 FE",
+            "price": 699,
+            "productCategory": "Smartphone",
+            "description": "The S21 FE (Fan Edition) combines flagship features at a more accessible price point.",
+            "brand": "Samsung",
+            "imageUrl": "https://placehold.co/800x600?text=Samsung+Galaxy+S21+FE"
+        },
+        {
+            "id": 10,
+            "name": "iPhone SE (3rd generation)",
+            "price": 429,
+            "productCategory": "Smartphone",
+            "description": "The iPhone SE (3rd generation) offers powerful performance in a classic design.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPhone+SE+(3rd+generation)"
+        },
+        {
+            "id": 11,
+            "name": "iPhone 13 Mini",
+            "price": 599,
+            "productCategory": "Smartphone",
+            "description": "The iPhone 13 Mini packs all the features of the iPhone 13 in a compact form.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPhone+13+Mini"
+        },
+        {
+            "id": 12,
+            "name": "iPad Air (5th generation)",
+            "price": 599,
+            "productCategory": "Tablet",
+            "description": "The iPad Air offers powerful performance with the A15 Bionic chip in a thin design.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPad+Air+(5th+generation)"
+        },
+        {
+            "id": 13,
+            "name": "iPad (9th generation)",
+            "price": 329,
+            "productCategory": "Tablet",
+            "description": "The iPad features the A13 Bionic chip and a 10.2-inch Retina display.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=iPad+(9th+generation)"
+        },
+        {
+            "id": 14,
+            "name": "MacBook Air M2",
+            "price": 1199,
+            "productCategory": "Laptop",
+            "description": "The MacBook Air with M2 chip (2023) features a redesigned thin and light chassis, with a 13.6-inch Liquid Retina display, and offers remarkable performance with incredible battery life.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=MacBook+Air+M2"
+        },
+        {
+            "id": 15,
+            "name": "MacBook Pro 16-inch",
+            "price": 2499,
+            "productCategory": "Laptop",
+            "description": "The MacBook Pro 16-inch (2023) is a powerhouse for professionals, featuring the M2 Max chip for ultimate performance, a Liquid Retina XDR display, and a long-lasting battery.",
+            "brand": "Apple",
+            "imageUrl": "https://placehold.co/800x600?text=MacBook+Pro+16-inch"
+        }
+    ]
+}
