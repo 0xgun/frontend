@@ -9,6 +9,7 @@ import { HttpClient } from '@angular/common/http';
   styleUrl: './store.component.css',
 })
 export class StoreComponent implements OnInit {
+  p = 1;
   products: Product[] = [];
   searchTerm: string = '';
 
